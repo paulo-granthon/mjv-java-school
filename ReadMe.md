@@ -1,3 +1,3 @@
 # mjv-java-school
 
-Repositório exemplo da aula 06/06/2023
+Repositório para conclusão das atividades do bootcamp de java da MJV.  
